@@ -63,7 +63,7 @@ const App = () => {
         />
         <textarea
           type="text"
-          placeholder="Any thoughts?"
+          placeholder="what are you thinking?"
           value={thoughts}
           name="content"
           onChange={handleThoughtsChange}
